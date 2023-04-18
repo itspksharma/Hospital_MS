@@ -1,0 +1,20 @@
+﻿body {
+}
+
+.form-label{
+    color:darkslategrey;
+}
+.caption-top {
+    color:darkgoldenrod;
+}
+.container-fluid {
+    position: relative;
+    margin-top: 120px;
+    margin-left: 500px;
+    width: 615px;
+    height: auto;
+    background-color:whitesmoke;
+    border-radius: 25px;
+    display: inline-block;
+    padding: 10px 1px;
+}
